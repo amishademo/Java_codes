@@ -1,0 +1,182 @@
+class fisrt_pro
+{
+	public static void main(String args[])
+	{	
+		System.out.println("Hiii this is my first programs usng java ");
+		System.out.println("Display some statment about yourself ");
+	System.out.print("Name: \"Priti \t Yad \nav\" ");
+
+
+	}
+}
+
+/*
+public : all
+protected :
+private : No 
+default :
+
+
+
+
+demo()
+
+
+
+
+data type:
+int
+char float double 
+
+variables;
+
+age
+name
+phone_no
+
+
+
+Operator:
+1)
+int num
+sizeof(num)
+num++
+
+Pre 
+post
+
+
+int num=10;
+intres;
+res=num++;
+
+
+2)
+arith (+,-,*,/,%)
+
+/=Q
+%=R
+
+res=15/3
+res=5
+
+res=16%3
+res=1
+
+
+
+ass (=,+=,-=,*=,/=,%=)
+
+a=10
+a+=10
+a=a+10
+
+a-=10
+
+a*=10
+
+bit
+
+logical
+
+&& 
+||
+!
+
+
+T T=T
+T F=F
+F T=F
+F F=F
+
+T T=T
+T F=T
+F T=T
+F F=F
+
+
+
+
+
+
+com
+< > >= <= == !=
+a=10,b=10
+
+
+a>b
+
+a<b
+a>=b
+a==b
+a!=b
+
+
+Create a program
+1)about yourself
+2)Arith
+3)ass
+4)logical
+5)compar
+*/
+/*
+package Operators;
+
+//WAP to accept two no and find out the addition
+import java.util.Scanner;
+
+public class add_two_no 
+{
+	public static void main(String[] args) 
+	{
+		/*
+	
+		int num1,num2,res;
+		//Scanner class to accept the values 
+		Scanner sc=new Scanner(System.in);
+		
+		System.out.println("Arithmetic Operator.");
+		System.out.println("Addition:");
+		
+		System.out.println("Enter two numbers");
+		num1=sc.nextInt();
+		num2=sc.nextInt();
+		//Calculation for addition
+		res=num1+num2;
+
+		System.out.println("The addition is ="+res);
+		
+		
+		System.out.println(200+22+" is the result of addition and \nnew no addd is ="+67+88);
+		
+		System.out.println("addition is="+ 10+20);
+		System.out.println( 10+20+"addition is=");
+		
+		
+		int num=10;
+		int res;
+		res=num--;
+		
+		System.out.println(res);
+		System.out.println(num);
+	
+		int num2=89;
+		num2+=2;
+		System.out.println("num="+num2);
+		
+		*/
+		
+		int a=10,b=10;
+		boolean res;
+		
+		res=!((a<b)||(a>b));
+		
+		System.out.println("res="+res);
+		
+		
+		
+		
+	}
+
+}
+*/
